@@ -1,0 +1,17 @@
+Package: pommier
+Title: Paul's Packages
+Version: 0.1.0
+Author: Paul Villanueva <pvillanueva13@gmail.com>
+Maintainer: Paul Villanueva <pvillanueva13@gmail.com>
+Description: A collection of functions I made
+LazyData: true
+Encoding: UTF-8
+RoxygenNote: 6.1.1
+License: GNU-3
+Depends:
+  R (>= 3.5)
+Imports:
+  data.table,
+  dplyr,
+  ggplot2,
+  tidyverse
