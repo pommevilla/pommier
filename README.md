@@ -4,3 +4,10 @@ pommier
 =======
 
 A collection of functions that I use.
+
+Installation
+------------
+
+``` r
+devtools::install("pommevilla/pommier")
+```

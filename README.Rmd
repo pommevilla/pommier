@@ -19,7 +19,7 @@ A collection of functions that I use.
 
 ## Installation
 
-```{r}
+```{r, eval = FALSE}
 devtools::install("pommevilla/pommier")
 ```
 
